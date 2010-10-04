@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 29/3/2010-23:11:00
+EESchema-DOCLIB  Version 2.0  Date: 4/10/2010-20:57:37
 #
 $CMP CONN_32
 D Symbole general de connexion
@@ -12,6 +12,12 @@ $ENDCMP
 #
 $CMP OSC
 D Oscillator
+$ENDCMP
+#
+$CMP XC3S250E
+D spartan 2
+K FPGA
+F xilinx/spartan2e/spartan2e.pdf
 $ENDCMP
 #
 #End Doc Library
